@@ -164,7 +164,7 @@ pip install --upgrade mediapipe
 ## 📞 Contact
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/attendance-system/issues)
-- **Email**: your.email@example.com
+- **Email**: sanjaykrishnapati@gmail.com, sanjay1409kumar@gmail.com
 
 ---
 
